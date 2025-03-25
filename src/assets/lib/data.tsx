@@ -39,8 +39,8 @@ import Privacy from "../../components/Privacy";
 
 export const headerIntroData = {
   title: {
-    de: "Hi, ich bin Alpay",
-    en: "Hi, I'm Alpay",
+    de: "Hi, ich bin David Harper",
+    en: "Hi, I'm David Harper",
   },
   subtitle: "Fullstack Developer ",
   description: {
